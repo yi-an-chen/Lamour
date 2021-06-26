@@ -1,0 +1,83 @@
+/* Fix Height */
+
+html, body {
+    /* 外層高度 100% */
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.signin-div, .signup-div {
+    flex-grow: 1;
+}
+
+/* nav-tabs */
+
+.nav-tabs-div {
+    margin: 35px auto;
+}
+
+.nav-tabs-div .nav-item {
+    background-color: #eee;
+}
+
+.nav-tabs {
+    justify-content: center;
+}
+
+.nav-item a {
+    color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.nav-link:focus, .nav-link:hover {
+    color: black;
+}
+
+/* signin, signup */
+
+.signin-div, .signup-div {
+    margin: 20px auto 50px;
+}
+
+.signin-div>div, .signup-div>div {
+    display: flex;
+    justify-content: center;
+}
+
+.signup-div {
+    display: none;
+}
+
+.signin-div h2, .signup-div h2 {
+    text-align: center;
+    margin: 15px 0;
+}
+
+.signinAccount, .signinPassword, .signin-button, .signupAccount, .signupPassword, .signup-button {
+    margin: 15px 0;
+}
+
+.signinAccount:focus, .signinPassword:focus, .signupAccount:focus, .signupPassword:focus {
+    background-color: rgb(224, 206, 241);
+}
+
+.signin-button, .signup-button {
+    text-align: center;
+}
+
+.signinSend, .signupRegister {
+    border: 1px solid #888;
+    padding: 4px 8px;
+    border-radius: 7%;
+}
+
+.signinSend:hover, .signupRegister:hover {
+    background-color: rgb(198, 154, 240);
+    /* border-color: black; */
+}

@@ -1,0 +1,73 @@
+/* breadcrumb */
+
+.breadcrumb{
+    margin-top: 10px;
+}
+
+/* product */
+
+.productList {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card:hover {
+    transform: translate(1%, -1%);
+    transition: 0.3s;
+}
+
+.product-action{
+    text-align: center;
+    line-height: 2.5;
+    border-bottom: 1px solid #ddd;
+}
+
+.cart{
+    float: left;
+    width: 70%;
+}
+
+.cart input{
+    background: none;
+    border: none;
+}
+
+.wishlist{
+    float: left;
+    width: 30%;
+    border-left: 1px solid #ddd;
+}
+
+.wishlist a{
+    color: black;
+}
+
+.card-body a {
+    text-decoration: none;
+    color: black;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-title:hover {
+    color: rgb(143, 46, 240);
+}
+
+.card-text{
+    text-align: center;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+/* pagination */
+
+.pagination {
+    justify-content: center;
+}
+
+.page-link {
+    padding: 15px 20px;
+    border-color: #aaa;
+}
