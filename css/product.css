@@ -9,7 +9,7 @@ body{
     flex-direction: column;
 }
 
-.productList{
+.paginationNav{
     flex-grow: 1;
 }
 
