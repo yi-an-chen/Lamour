@@ -47,6 +47,9 @@ body{
 
 /* RWD */
 @media screen and (max-width:767px) {
+    .carousel{
+        width: 100%;
+    } 
     .card img {
         width: 55%;
     }
