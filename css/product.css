@@ -1,3 +1,18 @@
+/* Set Height */
+
+html, body{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.productList{
+    flex-grow: 1;
+}
+
 /* breadcrumb */
 
 .breadcrumb{
