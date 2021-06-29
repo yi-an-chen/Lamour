@@ -1,6 +1,6 @@
 # <img src="img/icon/logo_transparent.png" width="50px">&emsp;L'amour 服飾
 
-> 網頁連結：[L'amour 服飾](https://yi-an-chen.github.io/Lmaour/)
+> 網頁連結：[L'amour 服飾](https://yi-an-chen.github.io/Lamour/)
 
 ### 使用技能：
 * 程式
