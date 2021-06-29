@@ -6,7 +6,7 @@
 * 程式
   * HTML
   * CSS
-  * JavaScript、
+  * JavaScript、jQuery
 * 網頁排版
   * Bootstrap
 * 響應式網頁 (RWD)
