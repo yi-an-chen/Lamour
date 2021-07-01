@@ -15,6 +15,10 @@ body{
 
 /* about */
 
+.about {
+    margin-bottom: 30px;
+}
+
 .about h3{
     text-align: center;
     line-height: 3.5;
