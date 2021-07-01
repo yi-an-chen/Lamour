@@ -1,0 +1,25 @@
+/* Set Height */
+
+html, body{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.about{
+    flex-grow: 1;
+}
+
+/* about */
+
+.about h3{
+    text-align: center;
+    line-height: 3.5;
+}
+
+.about p{
+    line-height: 2;
+}
