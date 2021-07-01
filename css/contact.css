@@ -1,0 +1,32 @@
+/* Set Height */
+
+html, body{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.contact{
+    flex-grow: 1;
+}
+
+/* contact */
+.contact{
+    margin-bottom: 30px;
+}
+
+.contact h3{
+    text-align: center;
+    line-height: 3.5;
+}
+
+.contact span{
+    font-weight: 900;
+}
+
+.contact p{
+    line-height: 2;
+}
