@@ -38,11 +38,17 @@ body{
 .card-title {
     text-align: center;
     padding: 15px 0;
+    font-size: 1.5rem;
 }
 
 .card .col-md-4 {
     text-align: center;
     align-self: center;
+}
+
+.card-text{
+    font-size: 1.2rem;
+    line-height: 2;
 }
 
 /* RWD */
