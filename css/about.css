@@ -1,15 +1,15 @@
 /* Set Height */
 
-html, body{
+html, body {
     height: 100%;
 }
 
-body{
+body {
     display: flex;
     flex-direction: column;
 }
 
-.about{
+.about {
     flex-grow: 1;
 }
 
@@ -19,11 +19,11 @@ body{
     margin-bottom: 30px;
 }
 
-.about h3{
+.about h3 {
     text-align: center;
     line-height: 3.5;
 }
 
-.about p{
+.about p {
     line-height: 2;
 }
